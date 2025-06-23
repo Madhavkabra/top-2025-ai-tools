@@ -6,9 +6,7 @@
 1. [Introduction](#introduction)  
 2. [Top 25 AI Tools of 2025](#top-25-ai-tools-of-2025)  
 3. [Why This List?](#why-this-list)  
-4. [How to Use This Repository](#how-to-use-this-repository)  
-5. [Contributing](#contributing)  
-6. [License](#license)  
+
 
 ---
 
