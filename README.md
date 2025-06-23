@@ -94,19 +94,5 @@ Each entry includes a one-line description and a link to the vendor or project.
 
 ---
 
-## How to Use This Repository
 
-- **Evaluate & Compare:** Each tool’s link points to documentation or a landing page—start your evaluation there.  
-- **Contribute:** Found a missing gem? Add it under [Contributing](#contributing) guidelines.  
-- **Stay Updated:** Stars ⭐ this repo to watch for new releases and community additions.  
 
----
-
-## Contributing
-
-We welcome updates, corrections, and new suggestions!
-
-1. Fork the repository  
-2. Create a branch:
-   ```bash
-   git checkout -b feature/add-tool
